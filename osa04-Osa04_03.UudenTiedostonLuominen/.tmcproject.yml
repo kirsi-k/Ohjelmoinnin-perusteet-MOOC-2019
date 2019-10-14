@@ -1,0 +1,5 @@
+force_new_sandbox: true
+extra_student_files:
+ - tiedosto.txt
+ 
+
